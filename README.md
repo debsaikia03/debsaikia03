@@ -1,7 +1,5 @@
-<div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
-  <img src="./tenor.gif" alt="Cat Galaxy GIF" style="width: 100%; height: 300px; object-fit: cover;">
-</div>
-
+ <img src="./tenor.gif" alt="Cat Galaxy GIF" style="width: 100%; height: 300px; object-fit: cover;">
+ 
 # 💫 About Me:
 Hi there! I'm a 3rd-year Computer Science and Engineering student at KIIT University, passionate about technology and continuously striving to expand my skill set. 🚀<br><br>🌐 Full Stack Developer: Proficient in building dynamic and responsive web applications.<br>📈 DSA Enthusiast: Actively improving my problem-solving skills by diving deeper into Data Structures and Algorithms.<br>🤖 Exploring ML: Currently exploring the fascinating world of Machine Learning and its applications.<br>Skills 💻<br>Languages: C, C++, JavaScript, Python, Java<br>Frontend: React, Tailwind CSS, Bootstrap<br>Backend: Node.js/ Express.js/ Redux/ Zustand<br>Database: MongoDB, Firebase<br>
 

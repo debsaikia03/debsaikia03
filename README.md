@@ -1,4 +1,4 @@
-<div style="width: 500px; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+<div style="width: 100%; height: 300px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
   <img src="./tenor.gif" alt="Cat Galaxy GIF" style="height: 300px; object-fit: cover;">
 </div>
 

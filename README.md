@@ -1,4 +1,4 @@
-<img src="./cat_night.gif" alt="Cat Galaxy GIF" width="100%" height="300">
+<img src="./cat_night.gif" alt="Cat Galaxy GIF" width="100%" height="auto">
 
 
 # 💫 About Me:

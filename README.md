@@ -2,11 +2,15 @@
 
 <h1 align="center">💫 About Me</h1>
 
+<p align="center">
 🚀 Hi there! I'm a <b>Final Year CSE Student at KIIT University, Bhubaneswar</b>, passionate about technology and always expanding my skill set.  
-
-- 🌐 <b>Full Stack Developer</b>: Building dynamic & responsive web apps  
-- 📈 <b>DSA Enthusiast</b>: Strengthening problem-solving with Data Structures & Algorithms  
-- 🤖 <b>Exploring ML</b>: Learning Machine Learning & its real-world applications  
+<br><br>
+🌐 <b>Full Stack Developer</b>: Building dynamic & responsive web apps  
+<br>
+📈 <b>DSA Enthusiast</b>: Strengthening problem-solving with Data Structures & Algorithms  
+<br>
+🤖 <b>Exploring ML</b>: Learning Machine Learning & its real-world applications  
+</p>  
 
 <h2 align="center">💻 Skills</h2>
 

@@ -3,7 +3,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-🚀 Hi there! I'm a <b>Final Year CSE Student at KIIT University, Bhubaneswar</b>, passionate about technology and always expanding my skill set.  
+🚀 Hi there! I'm a <b>Final Year CSE Student at KIIT University, Bhubaneswar</b>, passionate about tech and always learning new skills.  
 <br><br>
 🌐 <b>Full Stack Developer</b>: Building dynamic & responsive web apps  
 <br>

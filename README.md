@@ -15,7 +15,7 @@
 <h2 align="center">💻 Skills</h2>
 
 <p align="center">
-👉 Languages: <b>C++</b> / <b>Python</b> / <b>JavaScript</b> <br>
+👉 Languages: <b>C++</b> / <b>Java</b> / <b>Python</b> / <b>JavaScript</b> <br>
 👉 Frontend: <b>React JS</b> / <b>Tailwind CSS</b> / <b>Redux</b> <br>
 👉 Backend: <b>Node.js</b> / <b>Express.js</b> / <b>Firebase</b> <br>
 👉 Database: <b>MongoDB</b> / <b>MySQL</b>  
